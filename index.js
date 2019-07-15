@@ -22,6 +22,6 @@ class BoardMember{
   }
   
   sayHi(){
-    return "You can do that!";
+    return "Hi, my name is <name>. I am from <homestate>, and I was trained in <training>.";
   }
 }
