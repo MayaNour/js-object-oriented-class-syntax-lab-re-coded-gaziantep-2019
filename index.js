@@ -17,7 +17,7 @@ class BoardMember{
     return "I like to help people.";
   }
   
-  approve(){
+  releasePressStatement(){
     return "You can do that!";
   }
   
