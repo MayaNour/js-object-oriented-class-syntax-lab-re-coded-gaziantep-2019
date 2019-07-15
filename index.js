@@ -13,7 +13,7 @@ class BoardMember{
     return "You can do that!";
   }
   
-  approve(){
+  doCharity(){
     return "You can do that!";
   }
   
