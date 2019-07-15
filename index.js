@@ -21,7 +21,7 @@ class BoardMember{
     return "You will see great things from Scuber.";
   }
   
-  approve(){
+  sayHi(){
     return "You can do that!";
   }
 }
